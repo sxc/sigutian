@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:645D3B82-B59C-4B64-9AC1-ABC946E254EB</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-09-29T20:08:27+08:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:5ECE425B-E39D-40B5-AFC5-10B908E8E8FD</id>
+  <title>Home</title>
+  <title xmlns="urn:iweb:">Home</title>
+  <in-navbar xmlns="urn:iweb:">5ECE425B-E39D-40B5-AFC5-10B908E8E8FD</in-navbar>
+  <link rel="alternate" href="Home.html"/>
+  <updated>2012-09-29T20:08:27.001+08:00</updated>
+  <content>Home</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:D3170387-DE6D-4822-B1E8-B701A4989AAD</id>
+  <title>Product</title>
+  <title xmlns="urn:iweb:">Product</title>
+  <in-navbar xmlns="urn:iweb:">D3170387-DE6D-4822-B1E8-B701A4989AAD</in-navbar>
+  <link rel="alternate" href="Product.html"/>
+  <updated>2012-09-29T20:08:27.002+08:00</updated>
+  <content>Product</content>
+ </entry>
+ <entry>
+  <id>urn:iweb:0111B09C-DCC5-478D-A5A7-23A6312C624B</id>
+  <title>About</title>
+  <title xmlns="urn:iweb:">About</title>
+  <in-navbar xmlns="urn:iweb:">0111B09C-DCC5-478D-A5A7-23A6312C624B</in-navbar>
+  <link rel="alternate" href="About.html"/>
+  <updated>2012-09-29T20:08:27.003+08:00</updated>
+  <content>About</content>
+ </entry>
+</feed>
